@@ -1,4 +1,7 @@
 # TSF-Internship-Task1
+
+Name : MOHIT BHADAURIA
+
 Prediction on student scores depending on study hours.
 
 Data Science intern at @The Sparks Foundation
